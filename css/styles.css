@@ -1,0 +1,40 @@
+body {
+  cursor: crosshair;
+}
+
+img {
+  border-radius: 15px;
+}
+
+.container {
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(0, 94, 128);
+  border-radius: 15px;
+  padding: 10px;
+  background-color: aqua;
+}
+
+.header {
+  font-family: sans-serif;
+}
+
+.pic {
+  margin: auto;
+  width: 75%;
+}
+
+.text {
+  margin: auto;
+  width: 95%;
+}
+
+.phone {
+  margin: auto;
+  width: 95%;
+}
+
+.email {
+  margin: auto;
+  width: 95%;
+}
